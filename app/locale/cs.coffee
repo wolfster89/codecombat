@@ -222,8 +222,8 @@ module.exports = nativeDescription: "čeština", englishDescription: "Czech", tr
 
   modal:
     close: "Zavřít"
-    okay: "Budiž"
-    cancel: "Zrušt"
+    okay: "Ok"
+    cancel: "Zrušit"
 
   not_found:
     page_not_found: "Stránka nenalezena"
